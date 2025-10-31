@@ -17,6 +17,8 @@
 
 <h2>🛠️ Technologies Used</h2>
 <table>
+  <tr><th><strong>Name</strong></th><th><strong>Version</strong></th></tr>
+  
   <tr><td><strong>Vite</strong></td><td>7.1.7</td></tr>
   <tr><td><strong>React</strong></td><td>19.1.1</td></tr>
   <tr><td><strong>Tailwind CSS</strong></td><td>4.1.15</td></tr>
