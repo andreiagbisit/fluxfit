@@ -22,7 +22,7 @@
   <tr><td><strong>Vite</strong></td><td>7.1.7</td></tr>
   <tr><td><strong>React</strong></td><td>19.1.1</td></tr>
   <tr><td><strong>Tailwind CSS</strong></td><td>4.1.15</td></tr>
-  <tr><td><strong>Framer Motion</strong></td><td>12.23.24</td></tr>
+  <tr><td><strong>Motion</strong></td><td>12.23.24</td></tr>
   <tr><td><strong>Heroicons</strong></td><td>2.2.0</td></tr>
   <tr><td><strong>TypeScript</strong></td><td>5.9.3</td></tr>
   <tr><td><strong>react-anchor-link-smooth-scroll</strong></td><td>1.0.12</td></tr>
