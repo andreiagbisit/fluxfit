@@ -9,4 +9,5 @@ export default defineConfig({
   resolve: {
     alias: [{ find: '@', replacement: path.resolve(__dirname, 'src') }]
   },
+  base: process.env.VITE_BASE_PATH || '/fluxfit',
 })
