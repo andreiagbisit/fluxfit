@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-gray-20: #EBF8F3;
+  --color-gray-100: #CCD2DF;
+  --color-gray-500: #003A5E;
+
+  --color-primary-100: #E0E9FF;
+  --color-primary-300: #A3BFFF;
+  --color-primary-500: #6687FF;
+  
+  --color-secondary-400: #70EB9B;
+  --color-secondary-500: #5FC984;
+
+  --font-main: 'Plus Jakarta Sans', sans-serif;
+
+  --content-logo3: url('./assets/Logo3.png');
+  --content-zigzag: url('./assets/Zigzag.png');
+  --content-flower: url('./assets/Flower.png');
+
+  --breakpoint-xs: 480px;
+  --breakpoint-sm: 768px;
+  --breakpoint-md: 1060px;
+}
+
+html, body, #root, .app {
+    height: 100%;
+    width: 100%;
+    @apply font-main;
+    @apply text-gray-500;
+    @apply selection:bg-secondary-500 selection:text-white;
+}
