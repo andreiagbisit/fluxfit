@@ -1,6 +1,6 @@
 <h1>FluxFit</h1>
 <p>
-  A simple fitness website created with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. The 
+  A fitness website created with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. The 
   website features a <strong>responsive layout</strong> for the UI to work 
   seamlessly between desktop and mobile devices. It also includes 
   <strong>CDN-based form endpoint integration</strong> for the website's contact 
