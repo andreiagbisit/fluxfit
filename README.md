@@ -1,6 +1,6 @@
-<h1>⚡ FluxFit</h1>
+<h1>FluxFit</h1>
 <p>
-  A simple fitness website created with React, TypeScript, and Tailwind CSS. The 
+  A simple fitness website created with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. The 
   website features a <strong>responsive layout</strong> for the UI to work 
   seamlessly between desktop and mobile devices. It also includes 
   <strong>CDN-based form endpoint integration</strong> for the website's contact 
@@ -15,7 +15,7 @@
 
 <hr/>
 
-<h2>🛠️ Technologies Used</h2>
+<h2>Tech Stack</h2>
 <table>
   <tr><th><strong>Name</strong></th><th><strong>Version</strong></th></tr>
   
@@ -32,19 +32,19 @@
 
 <hr/>
 
-<h2>📦 Installation</h2>
+<h2>Installation</h2>
 
-<h3>✅ Prerequisites</h3>
+<h3>Prerequisites</h3>
 <ul>
   <li>Ensure you have <strong>Node.js</strong> installed</li>
 </ul>
 
 <p>
-  🔗 Download Node.js (Windows Installer): 
+  Download Node.js (Windows Installer): 
   <a href="https://nodejs.org/en/download" target="_blank">https://nodejs.org/en/download</a>
 </p>
 
-<h3>▶️ Getting Started</h3>
+<h3>Getting Started</h3>
 
 <pre>
   <code>
