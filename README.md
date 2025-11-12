@@ -25,7 +25,7 @@
   <tr><td><strong>Motion</strong></td><td>12.23.24</td></tr>
   <tr><td><strong>Heroicons</strong></td><td>2.2.0</td></tr>
   <tr><td><strong>TypeScript</strong></td><td>5.9.3</td></tr>
-  <tr><td><strong>react-anchor-link-smooth-scroll</strong></td><td>1.0.12</td></tr>
+  <tr><td><code>react-anchor-link-smooth-scroll</code></td><td>1.0.12</td></tr>
   <tr><td><strong>React Hook Form</strong></td><td>7.65.0</td></tr>
   <tr><td><strong>FormSubmit</strong></td><td>N/A</td></tr>
 </table>
