@@ -1,33 +1,56 @@
 <h1>FluxFit</h1>
 <p>
-  A fitness website created with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. The 
-  website features a <strong>responsive layout</strong> for the UI to work 
+  A fitness-themed <b>single-page application</b> (<b>SPA</b>) created with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. The 
+  website features a <b>responsive layout</b> for the UI to work 
   seamlessly between desktop and mobile devices. It also includes 
-  <strong>CDN-based form endpoint integration</strong> for the website's contact 
+  <b>CDN-based form endpoint integration</b> for the website's contact 
   form to send the user's message to the intended recipient.
   <br><br>
 
   This is based on a project demonstrated on the YouTube video 
   <a href="https://youtu.be/I2NNxr3WPDo" target="_blank" rel="noopener noreferrer">
     Build a Complete Typescript React Fitness Application for Beginners | Responsive
-  </a> by <strong>EdRoh</strong>.
+  </a> by <b>EdRoh</b>.
 </p>
 
 <hr>
 
 <h2>Tech Stack</h2>
 <table>
-  <tr><th><strong>Name</strong></th><th><strong>Version</strong></th></tr>
+  <tr>
+    <th><b>Name</b></th>
+    <th><b>Details</b></th>
+  </tr>
+
+  <tr>
+    <td><b>TypeScript 5.9.3</b></td>
+    <td>Back-end language</td>
+  </tr>
   
-  <tr><td><strong>Vite</strong></td><td>7.1.7</td></tr>
-  <tr><td><strong>React</strong></td><td>19.1.1</td></tr>
-  <tr><td><strong>Tailwind CSS</strong></td><td>4.1.15</td></tr>
-  <tr><td><strong>Motion</strong></td><td>12.23.24</td></tr>
-  <tr><td><strong>Heroicons</strong></td><td>2.2.0</td></tr>
-  <tr><td><strong>TypeScript</strong></td><td>5.9.3</td></tr>
-  <tr><td><code>react-anchor-link-smooth-scroll</code></td><td>1.0.12</td></tr>
-  <tr><td><strong>React Hook Form</strong></td><td>7.65.0</td></tr>
-  <tr><td><strong>FormSubmit</strong></td><td>N/A</td></tr>
+  <tr>
+    <td><b>Vite 7.1.7</b></td>
+    <td>Environment</td>
+  </tr>
+
+  <tr>
+    <td><b>React Hook Form 7.65.0</b></td>
+    <td>Form validation</td>
+  </tr>
+  
+  <tr><td><b>FormSubmit</b></td>
+    <td>Form endpoint CDN</td>
+  </tr>
+  
+  <tr>
+    <td>
+      <b>React 19.1.1</b><br>
+      <b>Tailwind CSS 4.1.15</b><br>
+      <code>react-anchor-link-smooth-scroll</code> <b>1.0.12</b><br>
+      <b>Motion 12.23.24</b><br>
+      <b>Heroicons 2.2.0</b>
+    </td>
+    <td>UI</td>
+  </tr>
 </table>
 
 <hr>
@@ -36,12 +59,12 @@
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Ensure you have <strong>Node.js</strong> installed</li>
+  <li>Ensure you have <b>Node.js</b> installed</li>
 </ul>
 
 <p>
   Download Node.js (Windows Installer): 
-  <a href="https://nodejs.org/en/download" target="_blank">https://nodejs.org/en/download</a>
+  <a href="https://nodejs.org/en/download" target="_blank">Node.js — Download Node.js®</a>
 </p>
 
 <h3>Getting Started</h3>
