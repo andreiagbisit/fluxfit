@@ -13,7 +13,7 @@
   </a> by <strong>EdRoh</strong>.
 </p>
 
-<hr/>
+<hr>
 
 <h2>Tech Stack</h2>
 <table>
@@ -30,7 +30,7 @@
   <tr><td><strong>FormSubmit</strong></td><td>N/A</td></tr>
 </table>
 
-<hr/>
+<hr>
 
 <h2>Installation</h2>
 
@@ -62,4 +62,4 @@
   </code>
 </pre>
 
-<hr/>
+<hr>
