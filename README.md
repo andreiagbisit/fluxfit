@@ -5,6 +5,15 @@
   <b>CDN-based form endpoint integration</b> for the website's contact form to send the user's message to the intended recipient.
 </p>
 
+<ul>
+  <li>
+    You may visit the deployed app here:<br>
+    <a href="https://fluxfit-ph.vercel.app" target="_blank">
+      <b>fluxfit-ph.vercel.app</b>
+    </a>
+  </li>
+</ul>
+
 <hr>
 
 <h2>Tech Stack</h2>
