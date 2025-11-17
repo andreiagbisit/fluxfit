@@ -1,16 +1,8 @@
 <h1>FluxFit</h1>
 <p>
-  A fitness-themed <b>single-page application</b> (<b>SPA</b>) created with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. The 
-  website features a <b>responsive layout</b> for the UI to work 
-  seamlessly between desktop and mobile devices. It also includes 
-  <b>CDN-based form endpoint integration</b> for the website's contact 
-  form to send the user's message to the intended recipient.
-  <br><br>
-
-  This is based on a project demonstrated on the YouTube video 
-  <a href="https://youtu.be/I2NNxr3WPDo" target="_blank" rel="noopener noreferrer">
-    Build a Complete Typescript React Fitness Application for Beginners | Responsive
-  </a> by <b>EdRoh</b>.
+  A fitness-themed <b>single-page application</b> (<b>SPA</b>) created with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. 
+  The website features a <b>responsive layout</b> for the UI to work seamlessly between desktop and mobile devices. It also includes 
+  <b>CDN-based form endpoint integration</b> for the website's contact form to send the user's message to the intended recipient.
 </p>
 
 <hr>
@@ -58,21 +50,25 @@
 <h2>Installation</h2>
 
 <h3>Prerequisites</h3>
+
 <ul>
-  <li>Ensure you have <b>Node.js</b> installed</li>
+  <li>
+    Ensure you have <b>Node.js</b> installed.<br>
+    Download Node.js (Windows Installer):<br>
+    <a href="https://nodejs.org/en/download" target="_blank">Node.js — Download Node.js®</a>
+  </li>
 </ul>
 
-<p>
-  Download Node.js (Windows Installer): 
-  <a href="https://nodejs.org/en/download" target="_blank">Node.js — Download Node.js®</a>
-</p>
-
 <h3>Getting Started</h3>
+
+<ul>
+  <li><b>Running the project locally</b></li>
+</ul>
 
 <pre>
   <code>
   # Clone this repository
-  git clone &lt;your-repo-url&gt;
+  git clone https://github.com/andreiagbisit/fluxfit.git
   
   # Navigate into the project directory
   cd fluxfit
@@ -84,5 +80,19 @@
   npm run dev
   </code>
 </pre>
+
+<hr>
+
+<h2>Credits</h2>
+<ul>
+  <li>
+  This is based on a project demonstrated on the YouTube video 
+  <a href="https://youtu.be/I2NNxr3WPDo" target="_blank" rel="noopener noreferrer">
+    Build a Complete Typescript React Fitness Application for Beginners | Responsive
+  </a> by <b>EdRoh</b>.<br>
+
+  <i>Certain functionalities in this take of the project have been improved upon.</i>
+  </li>
+</ul>
 
 <hr>
