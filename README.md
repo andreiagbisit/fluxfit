@@ -74,21 +74,17 @@
   <li><b>Running the project locally</b></li>
 </ul>
 
-<pre>
-  <code>
-  # Clone this repository
-  git clone https://github.com/andreiagbisit/fluxfit.git
-  
-  # Navigate into the project directory
-  cd fluxfit
-  
-  # Install dependencies
-  npm install
-  
-  # Start the development server
-  npm run dev
-  </code>
-</pre>
+<pre><code># Clone this repository
+git clone https://github.com/andreiagbisit/fluxfit.git
+
+# Navigate into the project directory
+cd fluxfit
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev</code></pre>
 
 <hr>
 
