@@ -100,7 +100,7 @@
     Build a Complete Typescript React Fitness Application for Beginners | Responsive
   </a> by <b>EdRoh</b>.<br>
 
-  <i>Certain functionalities in this take of the project have been improved upon.</i>
+  <i>Certain features in this take of the project have been improved upon.</i>
   </li>
 </ul>
 
