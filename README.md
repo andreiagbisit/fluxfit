@@ -22,19 +22,19 @@
     <th><b>Name</b></th>
     <th><b>Details</b></th>
   </tr>
-
-  <tr>
-    <td><b>TypeScript 5.9.3</b></td>
-    <td>Back-end language</td>
-  </tr>
   
   <tr>
-    <td><b>Vite 7.1.7</b></td>
+    <td><b>Vite 7.2.4</b></td>
     <td>Environment</td>
   </tr>
 
   <tr>
-    <td><b>React Hook Form 7.65.0</b></td>
+    <td><b>TypeScript 5.9.3</b></td>
+    <td>Front-end language</td>
+  </tr>
+
+  <tr>
+    <td><b>React Hook Form 7.66.1</b></td>
     <td>Form validation</td>
   </tr>
   
@@ -45,8 +45,8 @@
   <tr>
     <td>
       <b>React 19.1.1</b><br>
-      <b>Tailwind CSS 4.1.15</b><br>
-      <code>react-anchor-link-smooth-scroll</code> <b>1.0.12</b><br>
+      <b>Tailwind CSS 4.1.17</b><br>
+      <code>react-anchor-link-smooth-scroll</code> <b>1.0.5</b><br>
       <b>Motion 12.23.24</b><br>
       <b>Heroicons 2.2.0</b>
     </td>
