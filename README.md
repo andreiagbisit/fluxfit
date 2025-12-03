@@ -25,7 +25,7 @@
   
   <tr>
     <td><b>Vite 7.2.4</b></td>
-    <td>Environment</td>
+    <td>Development environment</td>
   </tr>
 
   <tr>
@@ -85,19 +85,5 @@ npm install
 
 # Start the development server
 npm run dev</code></pre>
-
-<hr>
-
-<h2>Credits</h2>
-<ul>
-  <li>
-  This is based on a project demonstrated on the YouTube video 
-  <a href="https://youtu.be/I2NNxr3WPDo" target="_blank" rel="noopener noreferrer">
-    Build a Complete Typescript React Fitness Application for Beginners | Responsive
-  </a> by <b>EdRoh</b>.<br>
-
-  <i>Certain features in this take of the project have been improved upon.</i>
-  </li>
-</ul>
 
 <hr>

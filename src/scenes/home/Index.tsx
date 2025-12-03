@@ -93,14 +93,23 @@ const Home = ({ setSelectedPage }: Props) => {
       {isAboveMediumScreens && (
         <div className='h-[150px] w-full bg-primary-100 py-10'>
           <div className='mx-auto w-5/6'>
-            <div className='flex w-6/6 items-center justify-between gap-8'>
+            <motion.div className='flex w-6/6 items-center justify-between gap-8'
+                        initial='hidden'
+                        whileInView='visible'
+                        viewport={{ once: true, amount: 0.5 }}
+                        transition={{ delay: 0.3, duration: 0.5 }}
+                        variants={{
+                          hidden: { opacity: 0, y: 50 },
+                          visible: { opacity: 1, y: 0 },
+                        }}
+            >
               <img alt='underArmour-sponsor' src={SponsorUnderArmour} />
               <img alt='decathlon-sponsor' src={SponsorDecathlon} />
               <img alt='pocari-sponsor' src={SponsorPocari} />
               <img alt='cosmo-sponsor' src={SponsorCosmo} />
               <img alt='nb-sponsor' src={SponsorNB} />
               <img alt='asics-sponsor' src={SponsorAsics} />
-            </div>
+            </motion.div>
           </div>
         </div>
       )}
